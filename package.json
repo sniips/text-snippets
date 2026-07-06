@@ -1,0 +1,26 @@
+{
+  "name": "sniips-text-snippets",
+  "version": "1.0.0",
+  "description": "Text Snippets save and sync reusable text snippets across all your devices",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "text-snippets",
+    "snippets",
+    "text-expander",
+    "productivity",
+    "shortcuts",
+    "clipboard",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Sniips",
+  "license": "ISC",
+  "homepage": "https://sniips.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sniips/text-snippets.git"
+  }
+}
